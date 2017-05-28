@@ -11,7 +11,9 @@ public interface DemoService {
 
 	public String showHello();
 
-    public String showHello1();
+	public String showHello1();
 
 	public String showHello2();
+
+	public String showHello3();
 }
