@@ -8,4 +8,6 @@ public interface DemoService {
 	 * */
 	public String showMessage();
 	public String showParamsMessage(String param);
+
+	public String showHello();
 }
