@@ -10,4 +10,8 @@ public interface DemoService {
 	public String showParamsMessage(String param);
 
 	public String showHello();
+
+    public String showHello1();
+
+	public String showHello2();
 }
